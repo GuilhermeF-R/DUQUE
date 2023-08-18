@@ -1,0 +1,9 @@
+OBJETIVOS:
+
+Tentar de alguma forma(API ou Outra coisa) colocar o clima no aplicativo.
+Tentar de alguma forma responder o clima pelo Reconhecimento de Voz
+
+Pagina para pessoas fisicas e juridicas
+Valor IPTU
+
+Utilizar SELENIUM para fazer webscrap noticias.
