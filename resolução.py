@@ -68,4 +68,9 @@ buttonsair = Button(perfil,text="Sair", foreground="white", width=20, height=1)#
 buttonsair.place (x=80, y=350)
 buttonsair.config(background="#242424", highlightthickness=0, bd=0)
 
+#RESOLUÇÃO
+buttonfantasma = Button(perfil, width=20, height=1 , font="arial")
+buttonfantasma.place (x=80, y=400)
+buttonfantasma.config(background="#242424", highlightthickness=0, bd=0)
+
 perfil.mainloop()
