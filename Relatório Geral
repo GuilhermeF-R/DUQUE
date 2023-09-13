@@ -32,6 +32,8 @@ Melhorias no reconhecimento de voz.
 
 Perfil: Botões essencias para gerenciamento do aplicativo para cada usuário como notificações, configuração, ajuda e sobre tem seus espaços definidos porém sem funções incrementadas.
 
+Notícias: Salvar notícias em uma aba de favoritos para visualização posterior e adicionar mais notícias. 
+
 Fazer login ou criar conta: O aplicativo não notifica quando a conta foi criada ou o login foi aceito, porém, é exibido no terminal do código se a conta foi registrada corretamente e o login aceito.
 Por enquanto o aplicativo não tem opções para personalizar ou configurar sua conta.
 Visto isso temos espaços pré-definidos para futuras atualizações onde poderia ser incrementado essas opções e notificações.
