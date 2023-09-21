@@ -41,7 +41,7 @@ Visto isso temos espaços pré-definidos para futuras atualizações onde poderi
 Em geral o desenvolvimento do aplicativo foi um sucesso mesmo encontrando diversas limitações devido ao uso da biblioteca Tkinter que ocasionou diversos bugs de imagens e entre outros, 
 mesmo assim arrumamos soluções e demos continuidade ao projeto visando seu futuro e atualizações possíveis para o mesmo.
 
-OBS: Visando melhorar o aplicativo em futuras atualizações é importante considerar a migração para outra interface grafíca que facilitaria o funcionamento do mesmo. 
+Observação: Visando melhorar o aplicativo em futuras atualizações é importante considerar a migração para outra interface grafíca que facilitaria o funcionamento do mesmo. 
 
 BY:
 Guilherme Ferreira
