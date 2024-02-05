@@ -7,4 +7,4 @@ Isso ocorreu porque a chave foi comprometida quando tornamos o código do DUQUE 
 No entanto, o código ainda pode ser acessado, sendo necessário apenas atualizar a chave de API para que o chat funcione corretamente.
 Vale lembrar que o Duque é somente um protótipo feito para o trabalho final do curso de Python da FAETEC no ano de 2023, com o objetivo educacional e desenvolvido por alunos.
 
-Por favor, revise as práticas recomendadas pela OpenAI para segurança de chaves de API e siga as medidas necessárias para garantir a integridade e a segurança de suas chaves no futuro.
+
