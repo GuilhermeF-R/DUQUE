@@ -1,4 +1,6 @@
-# :prince: Duque:
+
+# :prince: Relatório do aplicativo: DUQUE
+### Projeto Final do curso Fundec Python 2023 
 É um Aplicativo que tem como objetivo divulgar eventos governamentais como campanhas recentes ou cursos, além de oferecer um portal prático e acessível com informações relacionadas ao governo. 
 O intuito é aumentar o conhecimento das pessoas sobre atitudes e eventos governamentais além de promover uma melhoria na qualidade de vida. 
 Unificando diversos portais do Governo em um só com intuito de levar essas notícias ao maior público possível e auxiliando no seu dia a dia, tornando Duque seu melhor assistente pessoal inteligente.
