@@ -38,7 +38,7 @@ Por enquanto o aplicativo não tem opções para personalizar ou configurar sua 
 Visto isso temos espaços pré-definidos para futuras atualizações onde poderia ser incrementado essas opções e notificações.
 
 # :coffee: Resumo:
-Em geral o desenvolvimento do aplicativo foi um sucesso mesmo encontrando diversas limitações devido ao uso da biblioteca Tkinter que ocasionou diversos bugs de imagens e entre outros, 
+Em geral o desenvolvimento do protótipo de aplicativo foi um sucesso mesmo encontrando diversas limitações devido ao uso da biblioteca Tkinter que ocasionou diversos bugs de imagens e entre outros, 
 mesmo assim arrumamos soluções e demos continuidade ao projeto visando seu futuro e atualizações possíveis para o mesmo.
 
 ### Observação: Visando melhorar o aplicativo em futuras atualizações é importante considerar a migração para outra interface grafíca que facilitaria o funcionamento do mesmo. 
