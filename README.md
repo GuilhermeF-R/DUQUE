@@ -50,3 +50,15 @@ mesmo assim arrumamos soluções e demos continuidade ao projeto visando seu fut
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # :four_leaf_clover: Veja abaixo:
+<a href="https://www.instagram.com/devgferreira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilherme-ferreira-25738427a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.tiktok.com/@devgferreira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-tiktok-617?style=for-the-badge&logo=tiktok" target="_blank"></a>  
+
+
+https://github.com/GuilhermeF-R/DUQUE/assets/136031870/ee60f017-3a84-4edd-9ef7-aeff4749e626
+
+
+
+
+
+
+
