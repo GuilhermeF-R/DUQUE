@@ -7,8 +7,8 @@ Unificando diversos portais do Governo em um só com intuito de levar essas not�
 
 # Aplicações criadas e implementadas para o projeto:
 
-+ Chat inteligente: Com função de ajudar e auxiliar os usuários em dúvidas ou problemas. O chat Duque utiliza a inteligência artificial da OpenAI para responder com precisão cada pergunta, possuindo
-reconhecimento de voz presente no chat para facilitar o uso em alguns casos ([desativado](https://github.com/GuilhermeF-R/DUQUE/blob/main/Chave%20de%20API%20desativada)).
++ ([Desativado](https://github.com/GuilhermeF-R/DUQUE/blob/main/Chave%20de%20API%20desativada)) Chat inteligente: Com função de ajudar e auxiliar os usuários em dúvidas ou problemas. O chat Duque utiliza a inteligência artificial da OpenAI para responder com precisão cada pergunta, possuindo
+reconhecimento de voz presente no chat para facilitar o uso em alguns casos.
 
 + Notícias: Com objetivo de notificar eventos governamentais como cursos do Governo ou campanhas de vacinação. O aplicativo visa 
 levar essas notícias de maneira fácil e rápida a todo público funcionando como um portal para essas informações.
