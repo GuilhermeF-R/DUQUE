@@ -1,4 +1,4 @@
-
+ 
 # :prince: Relatório do aplicativo: DUQUE
 ### Projeto Final do curso Fundec Python 2023 
 É um protótipo de Aplicativo que tem como objetivo divulgar eventos governamentais como campanhas recentes ou cursos, além de oferecer um portal prático e acessível com informações relacionadas ao governo. 
